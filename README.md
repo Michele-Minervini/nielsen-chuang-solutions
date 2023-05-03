@@ -87,9 +87,9 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [x] 2.80
 - [x] 2.81
 - [x] 2.82
-- Problem 1 [ ]
-- Problem 2 [ ]
-- Problem 3 [ ]
+- [ ] Problem 1 
+- [ ] Problem 2 
+- [ ] Problem 3 
 
 ### Chapter 8
 
