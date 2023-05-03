@@ -81,12 +81,15 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [x] 2.74
 - [x] 2.75
 - [ ] 2.76 Unsolved
-- [x] 2.77
+- [ ] 2.77
 - [x] 2.78
 - [x] 2.79
 - [x] 2.80
 - [x] 2.81
 - [x] 2.82
+- Problem 1 [ ]
+- Problem 2 [ ]
+- Problem 3 [ ]
 
 ### Chapter 8
 
