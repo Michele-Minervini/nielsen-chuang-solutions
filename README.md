@@ -170,8 +170,8 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [x] 11.10
 - [x] 11.11
 - [x] 11.12
-- [ ] 11.13
-- [ ] 11.14
+- [x] 11.13
+- [x] 11.14
 - [ ] 11.15
 - [ ] 11.16
 - [ ] 11.17
