@@ -158,10 +158,10 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [ ] Problem 3
 
 ### Chapter 11
-- [ ] 11.1
-- [ ] 11.2
-- [ ] 11.3
-- [ ] 11.4
+- [x] 11.1
+- [x] 11.2
+- [x] 11.3
+- [x] 11.4
 - [ ] 11.5
 - [ ] 11.6
 - [ ] 11.7
@@ -184,6 +184,11 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [ ] 11.24
 - [ ] 11.25
 - [ ] 11.26
+- [ ] Problem 1
+- [ ] Problem 2
+- [ ] Problem 3
+- [ ] Problem 4
+- [ ] Problem 5
 
 ### Chapter 12
 - [ ] 12.1
