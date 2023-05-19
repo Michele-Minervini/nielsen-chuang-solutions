@@ -93,10 +93,10 @@ The solutions currently cover some of the chapters. This is still a work in prog
 
 ### Chapter 8
 
-- [ ] 8.1
-- [ ] 8.2
-- [ ] 8.3
-- [ ] 8.4
+- [x] 8.1
+- [x] 8.2
+- [x] 8.3
+- [x] 8.4
 - [ ] 8.5
 - [ ] 8.6
 - [ ] 8.7
@@ -128,6 +128,9 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [ ] 8.33
 - [ ] 8.34
 - [ ] 8.35
+- [ ] Problem 1
+- [ ] Problem 2
+- [ ] Problem 3
 
 ### Chapter 9
 - [x] 9.1
@@ -162,7 +165,7 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [x] 11.2
 - [x] 11.3
 - [x] 11.4
-- [ ] 11.5
+- [x] 11.5
 - [ ] 11.6
 - [ ] 11.7
 - [ ] 11.8
@@ -172,13 +175,13 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [x] 11.12
 - [x] 11.13
 - [x] 11.14
-- [ ] 11.15
+- [x] 11.15
 - [ ] 11.16
 - [ ] 11.17
 - [ ] 11.18
 - [ ] 11.19
 - [ ] 11.20
-- [ ] 11.21
+- [x] 11.21
 - [ ] 11.22
 - [ ] 11.23
 - [ ] 11.24
@@ -229,3 +232,10 @@ The solutions currently cover some of the chapters. This is still a work in prog
 - [ ] 12.36
 - [ ] 12.37
 - [ ] 12.38
+- [ ] Problem 1
+- [ ] Problem 2
+- [ ] Problem 3
+- [ ] Problem 4
+- [ ] Problem 5
+- [ ] Problem 6
+- [ ] Problem 7
