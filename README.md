@@ -1,4 +1,4 @@
-# Soltutions for Nielsen and Chuang's "Quantum Computation and Quantum Information"
+# Solutions of Nielsen and Chuang's "Quantum Computation and Quantum Information"
 The solutions currently cover some of the chapters. This is still a work in progress, and there might be some errors, so corrections are welcome.
 
 ## Solved exercises
